@@ -1,0 +1,15 @@
+body {
+    padding-top: 50px;
+}
+
+nav {
+    background-color: black;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.item {
+    max-height: 650px;
+}
